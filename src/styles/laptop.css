@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+
+.main{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: blue;
+
+    height: 900px;
+    margin: 100px;
+}
